@@ -7,11 +7,10 @@ setup(
   description = 'Custoom class to Add or Multiply Integer and String',   # Give a short description about your library
   author = 'pratik K Sarangi',                   # Type in your name
   author_email = 'psarangi50@gmail.com',      # Type in your E-Mail
-  url = 'https://psarangi50@dev.azure.com/psarangi50/CustClass/_git/CustClass',   # Provide either the link to your github or to your website
+  url = 'https://github.com/psarangi550/CustClass',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
   keywords = ['custclass'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
-          'validators',
           'beautifulsoup4',
       ],
   classifiers=[
